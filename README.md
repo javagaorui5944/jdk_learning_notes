@@ -3,6 +3,8 @@
  * classloader机制,tomcat的类加载机制
  * jvm gc,对象得不到内存分配怎么排查
  * 多线程线程通信问题
+ * redis memcached 区别
+ * nginx的使用
  * 项目闲聊
  * 发展,平时看哪些书
  
