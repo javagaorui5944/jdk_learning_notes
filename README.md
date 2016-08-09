@@ -5,6 +5,7 @@
  * 多线程线程通信问题
  * 项目闲聊
  * 发展,平时看哪些书
+ 
 ###jdk源码探究,在准备面试期间也会每天进行更新,对目前学习的总结以及督促自己
 * BlockingQueue
  * [手动实现了一个阻塞队列,模仿了ArrayBlockingQueue,但用了object对象的notify和wait方法作为线程通信](https://github.com/javagaorui5944/jdk_learning_notes/blob/master/src/com/gaorui/blockingqueue/meArrayBlockingQueue.java)
