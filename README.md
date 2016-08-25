@@ -1,4 +1,12 @@
 ###面经
+* 阿里一面(一次平等的交流,面试官前辈人很好)
+ * 定时器原理，自己设计一个定时器
+ * 快排，快排优化
+ * hashmap，concurenthahsmap（这个问得好深，变向问我cas
+ * spring 启动过程，mabatis 二级缓存
+ * classloader，jmm（valatile原理）
+ * jvm（cms收集算法）
+ 
 * dhy 阿里一面
  * spring（IOC、AOP）
  * Object的方法 
