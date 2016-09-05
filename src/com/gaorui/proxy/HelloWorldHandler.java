@@ -10,7 +10,7 @@ public class HelloWorldHandler implements InvocationHandler {
        private Object obj;
 
     public HelloWorldHandler(Object obj) {
-                 super();
+                 //super();
                  this.obj = obj;
              }
 
