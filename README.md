@@ -17,7 +17,7 @@
  * 快排，快排优化
  * hashmap，concurenthahsmap
  * spring 启动过程，mabatis 二级缓存
- * classloader，jmm（valatile原理）
+ * classloader，jmm（volatile原理）
  * jvm（cms收集算法）
  
 * dhy 阿里一面
